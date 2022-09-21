@@ -5,13 +5,22 @@
   padding: 0 48px;
 }
 
+@media screen and (max-width: 1025px) {
+  .photo-grid {
+    gap: 14px;
+  }
+}
+
 @media screen and (max-width: 769px) {
   .photo-grid {
     padding: 0 24px;
+    gap: 16px;
   }
 }
+
 @media screen and (max-width: 470px) {
   .photo-grid {
     padding: 0 16px;
+    gap: 12px;
   }
 }
