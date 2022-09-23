@@ -2,7 +2,6 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  min-height: 52px;
   margin: 28px 48px 56px 48px;
 }
 
@@ -14,6 +13,5 @@
 @media screen and (max-width: 470px) {
   .header {
     margin: 16px 16px 48px 16px;
-    min-height: 42px;
   }
 }
