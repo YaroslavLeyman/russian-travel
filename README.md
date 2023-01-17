@@ -16,4 +16,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на проект](https://yaroslavleyman.github.io/russian-travel-bootcamp/)
+* [Ссылка на проект](https://yaroslavleyman.github.io/russian-travel/)
